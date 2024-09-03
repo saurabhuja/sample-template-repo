@@ -1,4 +1,4 @@
-# Reporting security vulnerabilities
+# Reporting security vulnerabilities2
 
 Oracle values the independent security research community and believes that
 responsible disclosure of security vulnerabilities helps us ensure the security
@@ -17,7 +17,7 @@ directly.
 Non-vulnerability related security issues including ideas for new or improved
 security features are welcome on GitHub Issues.
 
-## Security updates, alerts and bulletins
+## Security updates, alerts and bulletins2
 
 Security updates will be released on a regular cadence. Many of our projects
 will typically release security fixes in conjunction with the
@@ -25,7 +25,7 @@ Oracle Critical Patch Update program. Additional
 information, including past advisories, is available on our [security alerts][4]
 page.
 
-## Security-related information
+## Security-related information2
 
 We will provide security related information such as a threat model, considerations
 for secure use, or any known security issues in our documentation. Please note

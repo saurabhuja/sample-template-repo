@@ -1,36 +1,36 @@
 *This repository acts as a template for all of Oracle’s GitHub repositories. It contains information about the guidelines for those repositories. All files and sections contained in this template are mandatory, and a GitHub app ensures alignment with these guidelines. To get started with a new repository, replace the italic paragraphs with the respective text for your project.*
 
-# Project name
+# Project name2
 
 *Describe your project's features, functionality and target audience*
 
-## Installation
+## Installation2
 
 *Provide detailed step-by-step installation instructions. You can name this section **How to Run** or **Getting Started** instead of **Installation** if that's more acceptable for your project*
 
-## Documentation
+## Documentation2
 
 *Developer-oriented documentation can be published on GitHub, but all product documentation must be published on <https://docs.oracle.com>*
 
-## Examples
+## Examples2
 
 *Describe any included examples or provide a link to a demo/tutorial*
 
-## Help
+## Help22
 
 *Inform users on where to get help or how to receive official support from Oracle (if applicable)*
 
-## Contributing
+## Contributing2
 
 *If your project has specific contribution requirements, update the CONTRIBUTING.md file to ensure those requirements are clearly explained*
 
 This project welcomes contributions from the community. Before submitting a pull request, please [review our contribution guide](./CONTRIBUTING.md)
 
-## Security
+## Security2
 
 Please consult the [security guide](./SECURITY.md) for our responsible security vulnerability disclosure process
 
-## License
+## License2
 
 *The correct copyright notice format for both documentation and software is*
     "Copyright (c) [year,] year Oracle and/or its affiliates."
